@@ -4,7 +4,7 @@ Allison is a second-year Masters Degree student in Atmospheric and Oceanic Scien
 
 Allison has performed various field projects which included running a mobile doppler radar for the WINTRE-MIX project as well as deploying low cost purple air sensors for an Environmental Engineering field project. Allison studies Air Quality modeling implementing field project data into NIST CONTAM model. They have also studied radar data for the WINTRE-MIX project which included quality control and hydrometeor identification.
 
-[Curriculum vitae](./CV Allison Fagerson.pdf) (updated March 25th, 2024)
+[Curriculum vitae](./CV_Allison Fagerson.pdf) (updated March 25th, 2024)
 
 
 ## Education
